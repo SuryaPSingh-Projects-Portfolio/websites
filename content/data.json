@@ -1,0 +1,57 @@
+{
+  "name": "Surya Partap Singh",
+  "title": "Senior .NET Full Stack & AI Engineer",
+  "location": "Irvine, California",
+  "phone": "(949) 617-4866",
+  "email": "surya.psingh@yahoo.com",
+  "linkedin": "https://linkedin.com/in/suryapsingh1979",
+  "github": "https://github.com/SuryaPSingh-Projects-Portfolio",
+  "summary": "Senior AI-Augmented .NET Developer with 11+ years of hands-on experience delivering enterprise applications in C#, Python, ASP.NET Core, .NET Core Web API, and Azure. Practitioner of AI-augmented SDLC using Claude Code, Cursor IDE, GitHub Copilot, and custom MCP servers. Holds a Master's in Computer Applications. Proven delivery record across USA and UK spanning BFSI, Insurance, Utilities, Travel, and Healthcare domains.",
+  "skills": [
+    "C#, ASP.NET Core, .NET Core Web API",
+    "Microservices, DDD, CQRS, MediatR",
+    "Azure Cloud, Azure AI Foundry, Semantic Kernel",
+    "SQL Server, PostgreSQL, Oracle",
+    "Claude Code, Cursor IDE, GitHub Copilot, MCP",
+    "React, Angular, Vue 2",
+    "DataDog, ElasticSearch"
+  ],
+  "experience": [
+    {
+      "company": "Neilson Technology Services",
+      "role": "Senior .NET Full Stack & AI-Augmented Developer",
+      "period": "Nov 2021 – Present",
+      "description": "Delivered Microservices APIs using C#, .NET Core Web API, CQRS, MediatR and Clean DDD for insurance product lifecycle management. Architected an AI-augmented SDLC integrating Claude Code, Cursor IDE, and GitHub Copilot, and built a custom MCP server for repo-specific context."
+    },
+    {
+      "company": "Smart Energy Water (SEW)",
+      "role": "Senior .NET Developer",
+      "period": "May 2020 – Nov 2021",
+      "description": "Developed Microservices APIs for utility clients using Clean DDD, CQRS, and TDD; built AI/analytics reporting modules and a flexible E-Bill retrieval API."
+    },
+    {
+      "company": "Randstad Technologies (Client: Princess Cruises)",
+      "role": "Senior .NET Developer",
+      "period": "Jul 2017 – May 2020",
+      "description": "Architected a Paycard application with PGP encryption for PCI compliance and a Payroll Validation Tool; delivered POCs on Azure Cognitive Services."
+    },
+    {
+      "company": "Collabera Inc. (Client: Nationwide Pet Insurance)",
+      "role": "Senior .NET Developer",
+      "period": "Feb 2016 – Jul 2017",
+      "description": "Developed the Quote & Enrollment web application using ASP.NET, MVP pattern, and SOA architecture with Oracle database."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "school": "DAV Institute of Management & Technology, MD University Rohtak",
+      "period": "Jul 2000 – Jul 2003"
+    },
+    {
+      "degree": "Bachelor of Science (B.Sc.)",
+      "school": "Rajdhani College, University of Delhi",
+      "period": "Jul 1997 – Jul 2000"
+    }
+  ]
+}
